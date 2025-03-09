@@ -1,6 +1,6 @@
 # Fire Detection and Tracking Tool Using YOLOv8
 
-**Welcome👋 to my object detection and video stream tracking Project provided by [CodeAlpha](https://codealpha.tech)**
+**Welcome👋 to my object detection and video stream tracking Project given by [CodeAlpha](https://codealpha.tech)**
 ## Overview
 
 This project implements a **Fire Detection and Tracking Tool** using the YOLOv8 (You Only Look Once) object detection algorithm. The tool allows users to perform live detection through a webcam or analyze static images for fire detection. The model has been trained using a dataset obtained from Roboflow.
