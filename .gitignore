@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+# Virtual environment
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model files
+*.pt
+*.pth
+
+# Logs and outputs
+runs/
+*.log
+
+# IDE specific files
+.vscode/
